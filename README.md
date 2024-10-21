@@ -11,7 +11,7 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Internal Audit         | <a href="https://google.com">Detection Lab</a>|
+| Internal Security Audit         | <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>|
 
 
 ## Tools
