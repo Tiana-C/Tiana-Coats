@@ -7,7 +7,6 @@ I am a cybersecurity student who is self-driven and is eager to learn and advanc
 My passion for helping clients aligns well with the field of cybersecurity, where I am driven by the opportunity to protect clients’ sensitive information and systems. I find the challenges within cybersecurity both rewarding and motivating, and I am eager to contribute my skills to safeguard digital environments while continuing to grow in my career. I look forward to utilizing my strengths to enhance security and ensure client confidence.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
