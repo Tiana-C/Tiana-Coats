@@ -47,6 +47,5 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>
 
